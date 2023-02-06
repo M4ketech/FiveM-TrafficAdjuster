@@ -1,8 +1,3 @@
-# FiveM-TrafficAdjuster
-Simple script to adjust traffic in FiveM server.
-
-Config.lua:
-```
 TrafficAmount = 100 
 PedestrianAmount = 100
 ParkedAmount = 100
@@ -29,5 +24,3 @@ EnableGarbageTrucks = true
 
 
 ]]
-```
-Original mod by Blumlaut This site was built using [https://github.com/Blumlaut/TrafficAdjuster](https://github.com/Blumlaut/TrafficAdjuster)
