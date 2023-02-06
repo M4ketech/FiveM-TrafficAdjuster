@@ -30,4 +30,4 @@ EnableGarbageTrucks = true
 
 ]]
 ```
-Original mod by Blumlaut This site was built using [https://github.com/Blumlaut/TrafficAdjuster](https://github.com/Blumlaut/TrafficAdjuster)
+Original mod by Blumlaut [https://github.com/Blumlaut/TrafficAdjuster](https://github.com/Blumlaut/TrafficAdjuster)
